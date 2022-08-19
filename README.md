@@ -6,7 +6,7 @@
 
 ## Project Goal :dart:
 
-This is an attempt at cloning [Paytm.com](https://project-14.vercel.app/).
+This is an attempt at cloning [Paytm.com](https://Paytm.com/).
 
 ## Time Taken
 
